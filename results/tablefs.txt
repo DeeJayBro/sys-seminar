@@ -1,0 +1,7 @@
+closefile2           99971ops     1851ops/s   0.0mb/s    0.005ms/op [0.001ms - 1.330ms]
+closefile1           99972ops     1851ops/s   0.0mb/s    0.007ms/op [0.002ms - 3.293ms]
+writefile2           99973ops     1851ops/s   7.2mb/s    0.605ms/op [0.021ms - 186.849ms]
+readfile1            99975ops     1851ops/s   7.2mb/s    1.299ms/op [0.043ms - 186.940ms]
+createfile2          100000ops     1852ops/s   0.0mb/s   13.455ms/op [0.115ms - 358.345ms]
+openfile1            100003ops     1852ops/s   0.0mb/s    1.531ms/op [0.065ms - 186.977ms]
+73.170: IO Summary: 599894 ops 11107.941 ops/s 1851/1851 rd/wr  14.5mb/s 2.817ms/op

@@ -1,0 +1,43 @@
+Toshiba THNSN5256GPU7:
+
+        Processor: Intel Xeon D-1548 @ 2.60GHz (8 Cores / 16 Threads), Motherboard: HP ProLiant m510 Server Cartridge (H05 BIOS), Chipset: Intel Xeon E7 v4/Xeon, Memory: 4 x 16384 MB DDR4-2400MT/s 855506-091, Di
+sk: 256GB Toshiba THNSN5256GPU7, Graphics: Matrox MGA G200EH, Network: Mellanox MT27520
+
+        OS: Ubuntu 18.04, Kernel: 4.15.0-169-generic (x86_64), Compiler: GCC 7.5.0, File-System: ext4, Screen Resolution: 1024x768
+
+
+    Flexible IO Tester 3.29
+    Type: Random Write - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    MB/s > Higher Is Better
+    Toshiba THNSN5256GPU7 . 428 |==================================================================================================================================================================================
+
+
+    Flexible IO Tester 3.29
+    Type: Random Write - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    IOPS > Higher Is Better
+    Toshiba THNSN5256GPU7 . 109833 |===============================================================================================================================================================================
+
+
+    Flexible IO Tester 3.29
+    Type: Sequential Read - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    MB/s > Higher Is Better
+    Toshiba THNSN5256GPU7 . 559 |==================================================================================================================================================================================
+
+
+    Flexible IO Tester 3.29
+    Type: Sequential Read - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    IOPS > Higher Is Better
+    Toshiba THNSN5256GPU7 . 143000 |===============================================================================================================================================================================
+
+
+    Flexible IO Tester 3.29
+    Type: Sequential Write - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    MB/s > Higher Is Better
+    Toshiba THNSN5256GPU7 . 443 |==================================================================================================================================================================================
+
+
+    Flexible IO Tester 3.29
+    Type: Sequential Write - Engine: Linux AIO - Buffered: Yes - Direct: No - Block Size: 4KB - Disk Target: /mnt/bench
+    IOPS > Higher Is Better
+    Toshiba THNSN5256GPU7 . 113667 |===============================================================================================================================================================================
+
